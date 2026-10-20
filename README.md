@@ -69,5 +69,7 @@ The workflow was tested with sample job application records. The email notificat
 ## Project Status
 
 **Working MVP — tested end to end.**
+<img width="410" height="340" alt="image" src="https://github.com/user-attachments/assets/9dd754e3-926f-484d-9158-9bf97a73cf6e" />
+
 
 This is a self-initiated portfolio project, not a client engagement.
