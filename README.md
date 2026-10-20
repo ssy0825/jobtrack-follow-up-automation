@@ -1,6 +1,7 @@
 # JobTrack — Automated Job Follow-up Reminder
 
 A personal workflow automation project built with **n8n, JavaScript, CSV, and SMTP**.
+<img width="1621" height="362" alt="workflow-overview" src="https://github.com/user-attachments/assets/1c5e235d-8a95-4d97-9470-0372257b963d" />
 
 ## Overview
 
